@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+
+    <product id="0">
+<name>Кактус </name>
+<cost>400 ру</cost>
+<img>https://thumbs.dreamstime.com/b/кактус-в-баке-36298283.jpg</img>
+</product>
+
+
+<product id="1">
+    <name>кактус с цветком</name>
+    <cost>500 руб</cost>
+    <img>https://надомаркет.рф/upload/resize_cache/iblock/15f/1280_1280_1/15fb3618e55e2759632640cef40159a2.jpg</img>
+</product>
+
+
+<product id="2">
+    <name>Колючий кактус</name>
+    <cost>300 руб</cost>
+    <img>https://ae04.alicdn.com/kf/H56a73851017749718ba3c87833fc43ebI/-.jpg</img>
+</product>
+
+
+<product id="3">
+    <name>Набор кактусов</name>
+    <cost>1200 руб</cost>
+    <img>https://cs11.livemaster.ru/storage/topic/NxN/6f/fe/6465622938c9a9018da1b3a50b3664e8b2d1lb.jpg?h=G3_WU6diQt38bLJEH1xBWw</img>
+</product>
+
+</root>
